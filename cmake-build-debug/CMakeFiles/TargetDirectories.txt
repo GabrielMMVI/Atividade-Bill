@@ -1,0 +1,3 @@
+C:/Users/Alunos/CLionProjects/Atividade Bill/cmake-build-debug/CMakeFiles/Atividade_Bill.dir
+C:/Users/Alunos/CLionProjects/Atividade Bill/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alunos/CLionProjects/Atividade Bill/cmake-build-debug/CMakeFiles/rebuild_cache.dir
